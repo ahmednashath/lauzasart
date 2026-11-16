@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Commission a custom illustration or fine art piece from Lauza's Art and ask questions about timelines, pricing and shipping."
+    />
+    <title>Lauza's Art | Commissions</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Courier+Prime:wght@400;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=La+Belle+Aurore&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body class="page-contact">
+    <header class="site-header">
+      <div class="container nav-shell">
+        <a class="brand" href="index.html" aria-label="Lauza's Art home">
+          <span class="brand-script">Lauza's Art</span>
+        </a>
+
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+          Menu
+        </button>
+
+        <nav id="site-nav" class="site-nav" aria-label="Main navigation">
+          <a href="index.html">Home</a>
+          <a href="illustrations.html">Illustrations</a>
+          <a href="artworks.html">Art Works</a>
+          <a href="about.html">About</a>
+          <a href="contact.html" class="active">Commissions</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="page-hero">
+        <div class="container narrow text-center">
+          <p class="eyebrow">Commissions</p>
+          <h1>Commission a coastal story</h1>
+        </div>
+      </section>
+
+      <section class="commission-overview">
+        <div class="container">
+          <div class="process-grid">
+            <article class="process-card">
+              <span class="step-number">01</span>
+              <h3>Share your idea</h3>
+              <p>Tell Lauza about the subject, mood, desired medium, and preferred size.</p>
+            </article>
+            <article class="process-card">
+              <span class="step-number">02</span>
+              <h3>Review proposal</h3>
+              <p>Receive a suggested concept, timeline, and approximate commission range.</p>
+            </article>
+            <article class="process-card">
+              <span class="step-number">03</span>
+              <h3>Final painting</h3>
+              <p>Approve the finished artwork and choose framing or shipping details.</p>
+            </article>
+          </div>
+
+          <div class="pricing-wrap">
+            <div class="section-header split">
+              <div>
+                <p class="eyebrow">Starting Prices</p>
+                <h2>Commission guide</h2>
+              </div>
+            </div>
+
+            <div class="table-wrap">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Size</th>
+                    <th>Illustration</th>
+                    <th>Fine Art</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Small (A5 / 15 x 21 cm)</td>
+                    <td>From $180</td>
+                    <td>From $260</td>
+                  </tr>
+                  <tr>
+                    <td>Medium (A4 / 21 x 29.7 cm)</td>
+                    <td>From $340</td>
+                    <td>From $520</td>
+                  </tr>
+                  <tr>
+                    <td>Large (A3 / 29.7 x 42 cm)</td>
+                    <td>From $620</td>
+                    <td>From $900</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="contact-section">
+        <div class="container contact-grid">
+          <div class="contact-card">
+            <p class="eyebrow">Send an inquiry</p>
+            <h2>Tell me about your project</h2>
+            <form id="commission-form" novalidate>
+              <div class="form-row">
+                <label>
+                  <span>Name</span>
+                  <input type="text" name="name" required />
+                </label>
+                <label>
+                  <span>Email</span>
+                  <input type="email" name="email" required />
+                </label>
+              </div>
+
+              <div class="form-row">
+                <label>
+                  <span>Category</span>
+                  <select name="category" required>
+                    <option value="">Select a category</option>
+                    <option value="Illustration">Illustration</option>
+                    <option value="Fine Art">Fine Art</option>
+                  </select>
+                </label>
+                <label>
+                  <span>Preferred Medium</span>
+                  <input type="text" name="medium" placeholder="Watercolor, gouache, digital..." required />
+                </label>
+              </div>
+
+              <div class="form-row">
+                <label>
+                  <span>Approximate Size</span>
+                  <input type="text" name="size" placeholder="21 x 29.7 cm" required />
+                </label>
+              </div>
+
+              <label>
+                <span>Project Details</span>
+                <textarea name="details" rows="6" required></textarea>
+              </label>
+
+              <button type="submit" class="btn btn-primary">Send Inquiry</button>
+              <p class="form-status" aria-live="polite"></p>
+            </form>
+          </div>
+
+          <aside class="info-card">
+            <p class="eyebrow">Direct Contact</p>
+            <h3>Reach out via Instagram DM or email</h3>
+            <ul>
+              <li><a href="mailto:hello@lauzasart.com">hello@lauzasart.com</a></li>
+              <li><a href="https://instagram.com" target="_blank" rel="noreferrer">Instagram DM</a></li>
+            </ul>
+
+            <div class="faq">
+              <div class="faq-item active">
+                <button class="faq-question" type="button">How long do commissions take?</button>
+                <div class="faq-answer">
+                  <p>Most projects begin with a 1–2 week planning phase and a 3–5 week painting window depending on scale and complexity.</p>
+                </div>
+              </div>
+              <div class="faq-item">
+                <button class="faq-question" type="button">Do you offer framing and shipping?</button>
+                <div class="faq-answer">
+                  <p>Yes. Framed pieces and wrapped artwork can be arranged for delivery, with delivery timelines shared during final approval.</p>
+                </div>
+              </div>
+              <div class="faq-item">
+                <button class="faq-question" type="button">Can I request a custom color palette?</button>
+                <div class="faq-answer">
+                  <p>Absolutely. Custom palettes, marine motifs, and botanical references are welcome as part of the concept conversation.</p>
+                </div>
+              </div>
+            </div>
+          </aside>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-shell">
+        <div>
+          <p class="footer-title">Lauza's Art</p>
+          <p>Maldivian artist working in marine illustration and botanical storytelling.</p>
+        </div>
+        <div class="footer-links">
+          <a href="https://instagram.com" target="_blank" rel="noreferrer">Instagram</a>
+          <a href="https://tiktok.com" target="_blank" rel="noreferrer">TikTok</a>
+        </div>
+        <p class="copyright">© 2025 Lauza's Art</p>
+      </div>
+    </footer>
+
+    <script src="js/app.js"></script>
+  </body>
+</html>

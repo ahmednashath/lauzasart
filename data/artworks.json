@@ -1,0 +1,167 @@
+[
+  {
+    "title": "Coral Nest",
+    "page": "illustrations",
+    "medium": "Watercolor",
+    "dimensions": "21 x 29.7 cm",
+    "year": "2024",
+    "status": "Available",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80",
+    "description": "A delicate watercolor study of reef life, coral branches and warm tidal color drawn from a Maldivian lagoon at dusk."
+  },
+  {
+    "title": "Blue Tern",
+    "page": "illustrations",
+    "medium": "Gouache",
+    "dimensions": "30 x 40 cm",
+    "year": "2024",
+    "status": "Prints Available",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1520637836862-4d197d17c90a?auto=format&fit=crop&w=900&q=80",
+    "description": "A layered gouache composition of a seabird and surrounding surf, exploring movement, light and coastal atmosphere."
+  },
+  {
+    "title": "Lime Reef",
+    "page": "illustrations",
+    "medium": "Digital",
+    "dimensions": "42 x 59.4 cm",
+    "year": "2023",
+    "status": "Private Collection",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=900&q=80",
+    "description": "Digital illustration translating a coral reef into bold, graphic forms with luminous sea greens and amber reflections."
+  },
+  {
+    "title": "Sea Fan Script",
+    "page": "illustrations",
+    "medium": "Line Art",
+    "dimensions": "20 x 20 cm",
+    "year": "2022",
+    "status": "Available",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=900&q=80",
+    "description": "A linear black-and-ink composition echoing coral filaments and tidal pattern in a clean archival style."
+  },
+  {
+    "title": "Mangrove Glow",
+    "page": "illustrations",
+    "medium": "Watercolor",
+    "dimensions": "24 x 34 cm",
+    "year": "2021",
+    "status": "Available",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=900&q=80",
+    "description": "A lush mangrove watercolor study with layered greens and silver reflections on still island water."
+  },
+  {
+    "title": "Manta Study",
+    "page": "illustrations",
+    "medium": "Digital",
+    "dimensions": "28 x 38 cm",
+    "year": "2024",
+    "status": "Prints Available",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1544551763-46a013bb70b5?auto=format&fit=crop&w=900&q=80",
+    "description": "An elegant digital study of a manta ray in flight, built from atmospheric gradients and fluid linework."
+  },
+  {
+    "title": "Botanical Drift",
+    "page": "artworks",
+    "medium": "Watercolor",
+    "dimensions": "40 x 50 cm",
+    "year": "2024",
+    "status": "Available",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?auto=format&fit=crop&w=900&q=80",
+    "description": "An atmospheric botanical painting merging island leaves and coastal textures in a quiet, layered composition."
+  },
+  {
+    "title": "Harbor Quiet",
+    "page": "artworks",
+    "medium": "Gouache",
+    "dimensions": "32 x 46 cm",
+    "year": "2023",
+    "status": "Private Collection",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=900&q=80",
+    "description": "A still harbor scene in muted greens and ivory, capturing the day’s soft light over a working island shore."
+  },
+  {
+    "title": "Atoll Memory",
+    "page": "artworks",
+    "medium": "Oils",
+    "dimensions": "60 x 80 cm",
+    "year": "2024",
+    "status": "Available",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=900&q=80",
+    "description": "An oil painting built from slow brushwork and luminous water color that evokes island memory and fading light."
+  },
+  {
+    "title": "Sunlit Reef",
+    "page": "artworks",
+    "medium": "Digital",
+    "dimensions": "35 x 50 cm",
+    "year": "2022",
+    "status": "Prints Available",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?auto=format&fit=crop&w=900&q=80",
+    "description": "A richly layered digital reef composition with warm, nearly translucent light moving across coral formations."
+  },
+  {
+    "title": "Faded Tide",
+    "page": "artworks",
+    "medium": "Acrylic",
+    "dimensions": "38 x 55 cm",
+    "year": "2021",
+    "status": "Available",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1517466787929-bc90951d0974?auto=format&fit=crop&w=900&q=80",
+    "description": "Acrylic layers build a sedimented seascape with coastal hues and hand-drawn vegetal marks."
+  },
+  {
+    "title": "Sea Orchid",
+    "page": "artworks",
+    "medium": "Acrylic",
+    "dimensions": "25 x 35 cm",
+    "year": "2023",
+    "status": "Prints Available",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80",
+    "description": "Bold floral forms and marine light combine in a compact acrylic work inspired by tropical blooms and reef shapes."
+  },
+  {
+    "title": "Palm Study",
+    "page": "artworks",
+    "medium": "Watercolor",
+    "dimensions": "28 x 38 cm",
+    "year": "2022",
+    "status": "Private Collection",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=900&q=80",
+    "description": "A quiet watercolor study of island palms and sunlight, balancing soft edges with a tactile studio palette."
+  },
+  {
+    "title": "Deep Current",
+    "page": "artworks",
+    "medium": "Oils",
+    "dimensions": "70 x 100 cm",
+    "year": "2024",
+    "status": "Available",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=900&q=80",
+    "description": "A large oil painting of moving water and depth, interpreted through layered blues, green and brushed silver."
+  },
+  {
+    "title": "Mariner's Journal",
+    "page": "illustrations",
+    "medium": "Gouache",
+    "dimensions": "26 x 36 cm",
+    "year": "2023",
+    "status": "Available",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80",
+    "description": "A gouache vignette of a journal page and reef study, combining observation and narrative in an intimate format."
+  }
+]

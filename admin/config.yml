@@ -1,0 +1,44 @@
+backend:
+  name: git-gateway
+  branch: main
+local_backend: true
+
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "artworks"
+    label: "Artworks"
+    files:
+      - file: "data/artworks.json"
+        label: "Artworks Inventory"
+        name: "artworks"
+        fields:
+          - label: "Artwork List"
+            name: "artworks"
+            widget: "list"
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - {
+                  label: "Page",
+                  name: "page",
+                  widget: "select",
+                  options: ["illustrations", "artworks"]
+                }
+              - {
+                  label: "Medium",
+                  name: "medium",
+                  widget: "select",
+                  options: ["Watercolor", "Gouache", "Digital", "Line Art", "Oils", "Acrylic"]
+                }
+              - { label: "Dimensions", name: "dimensions", widget: "string" }
+              - { label: "Year", name: "year", widget: "string" }
+              - {
+                  label: "Status",
+                  name: "status",
+                  widget: "select",
+                  options: ["Available", "Prints Available", "Private Collection"]
+                }
+              - { label: "Featured", name: "featured", widget: "boolean", default: false }
+              - { label: "Image", name: "image", widget: "image", choose_url: true }
+              - { label: "Description", name: "description", widget: "text" }
